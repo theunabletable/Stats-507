@@ -17,3 +17,5 @@ ChessEnvironment.py (Environment wrapper, contains reward function, provides
 ChessAgent.py (implements different agents, such as MCTS agent, 
                or random agent).
 ExperienceReplay.py (stores training experiences from self-play games)
+
+ChessTrainer.py (provides training loop interface)
