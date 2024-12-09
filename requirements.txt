@@ -1,0 +1,17 @@
+# Core ML/Computation
+torch>=2.0.0
+numpy>=1.21.0
+
+# Chess
+python-chess>=1.999
+
+# GUI and Visualization
+Pillow>=9.0.0 
+cairosvg>=2.5.2
+beautifulsoup4>=4.9.3
+
+# Utilities
+matplotlib>=3.4.0
+tqdm>=4.65.0
+pytest>=7.0.0
+typing-extensions>=4.0.0
