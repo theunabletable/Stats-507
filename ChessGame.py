@@ -2,6 +2,10 @@ from datetime import datetime
 import chess
 import os
 
+#core chess game logic using the chess library, for use in a variety of applications
+#Programmer: Andrew Jones and Claude AI
+#November 2024
+
 class ChessGame:
     def __init__(self):
         self.board = chess.Board()

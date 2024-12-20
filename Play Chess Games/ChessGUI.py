@@ -9,6 +9,9 @@ import time
 from bs4 import BeautifulSoup
 from ChessReplay import ChessReplay
 
+#GUI for playing games. Saves a PGN file of the game after completion.
+#Programmer: Andrew Jones and Claude AI
+#November 2024
 
 class ChessGUI:
     def __init__(self, root, chess_game):

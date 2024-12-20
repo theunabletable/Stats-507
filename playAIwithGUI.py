@@ -7,6 +7,10 @@ from ChessActionSpace import ChessActionSpace
 from ChessAgent import RandomAgent
 import chess
 
+#GUI for playing against a ChessAgent in a game of chess. Currently set to be just a Random Agent
+#Programmer: Andrew Jones and Claude AI
+#November 2024
+
 class ChessGUIWithAI(ChessGUI):
     def __init__(self, root, chess_game):
         # Create main frames first
